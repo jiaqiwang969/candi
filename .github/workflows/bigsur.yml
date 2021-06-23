@@ -14,5 +14,5 @@ jobs:
         # force cmake version:
         ls
         pwd
-        brew list
+        ./candi.sh 
 
