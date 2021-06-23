@@ -3,7 +3,7 @@ name: CI
 on: [push, pull_request]
 
 jobs:
-  osx-minimal:
+  bigsur:
     name: OSX clang
     runs-on: [self-hosted]
 
